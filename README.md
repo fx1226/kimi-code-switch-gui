@@ -1,3 +1,11 @@
+> **项目迁移 / Project moved**
+>
+> 后续开发与维护已迁至独立项目 **[Kimi Code Switch](https://github.com/fx1226/kimi-code-switch)**，采用浏览器作为唯一界面。本仓库归档保留旧版代码、Git 历史和已有桌面 Release 及资产；旧版下载仍可使用。新的 Web 版本尚未正式发布，请以新仓库说明为准。
+>
+> Active development has moved to **[Kimi Code Switch](https://github.com/fx1226/kimi-code-switch)**, an independently maintained project with a browser-based interface. This repository is archived to preserve the legacy source, Git history, and existing desktop releases and assets. A new Web release has not yet been published; follow the new repository for its status.
+
+---
+
 # Kimi Code Switch GUI
 
 面向 `kimi-code-cli` 的桌面配置工作台。它把 Provider、Model、Profile、MCP、Skills、快捷键、备份和面板偏好集中到一个可视化界面里，减少手写 TOML / JSON 配置的风险。
